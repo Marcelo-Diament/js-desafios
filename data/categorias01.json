@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Esportes"
+  },
+  {
+    "id": 2,
+    "titulo": "Moda"
+  },
+  {
+    "id": 3,
+    "titulo": "Beleza"
+  },
+  {
+    "id": 4,
+    "titulo": "Papelaria"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "Irmão do Jorel",
+    "presencas": 8,
+    "ausencias": 2,
+    "atualizadoEm": "18/07/2021"
+  },
+  {
+    "id": 2,
+    "nome": "Lara",
+    "presencas": 4,
+    "ausencias": 6,
+    "atualizadoEm": "18/07/2021"
+  },
+  {
+    "id": 3,
+    "nome": "Marcinho",
+    "presencas": 10,
+    "ausencias": 0,
+    "atualizadoEm": "18/07/2021"
+  },
+  {
+    "id": 4,
+    "nome": "Beto Cachinhos",
+    "presencas": 9,
+    "ausencias": 1,
+    "atualizadoEm": "18/07/2021"
+  },
+  {
+    "id": 5,
+    "nome": "Pablito",
+    "presencas": 8,
+    "ausencias": 2,
+    "atualizadoEm": "18/07/2021"
+  },
+  {
+    "id": 6,
+    "nome": "Ana Catarina",
+    "presencas": 10,
+    "ausencias": 0,
+    "atualizadoEm": "18/07/2021"
+  },
+  {
+    "id": 7,
+    "nome": "Billy Doidão",
+    "presencas": 0,
+    "ausencias": 10,
+    "atualizadoEm": "18/07/2021"
+  },
+  {
+    "id": 8,
+    "nome": "William Shostners",
+    "presencas": 6,
+    "ausencias": 4,
+    "atualizadoEm": "18/07/2021"
+  }
+]
